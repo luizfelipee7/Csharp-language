@@ -1,0 +1,15 @@
+D:\documentos\c#\exercicio1-Luiz-Felipe\bin\Debug\net7.0\exercicio1_Luiz_Felipe.exe
+D:\documentos\c#\exercicio1-Luiz-Felipe\bin\Debug\net7.0\exercicio1_Luiz_Felipe.deps.json
+D:\documentos\c#\exercicio1-Luiz-Felipe\bin\Debug\net7.0\exercicio1_Luiz_Felipe.runtimeconfig.json
+D:\documentos\c#\exercicio1-Luiz-Felipe\bin\Debug\net7.0\exercicio1_Luiz_Felipe.dll
+D:\documentos\c#\exercicio1-Luiz-Felipe\bin\Debug\net7.0\exercicio1_Luiz_Felipe.pdb
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.csproj.AssemblyReference.cache
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.GeneratedMSBuildEditorConfig.editorconfig
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.AssemblyInfoInputs.cache
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.AssemblyInfo.cs
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.csproj.CoreCompileInputs.cache
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.dll
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\refint\exercicio1_Luiz_Felipe.dll
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.pdb
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\exercicio1_Luiz_Felipe.genruntimeconfig.cache
+D:\documentos\c#\exercicio1-Luiz-Felipe\obj\Debug\net7.0\ref\exercicio1_Luiz_Felipe.dll
